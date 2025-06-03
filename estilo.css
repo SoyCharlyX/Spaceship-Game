@@ -28,6 +28,9 @@ body {
     background: #000000;
     border: #000  solid;
     margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .contenedor-botones {
