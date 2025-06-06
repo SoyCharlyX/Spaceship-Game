@@ -36,6 +36,9 @@ body {
 .contenedor-botones {
     background-color: #fdfdfd;
     background-color: rgb(180, 181, 181);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .boton {
