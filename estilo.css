@@ -15,16 +15,6 @@ body {
   align-items: center;
 }
 
-.barra {
-    background-color: #130052;
-    color: #ffffff;
-    font-size: 20px;
-    height: 25px;
-    /*Le e quitado la barra de muertes*/
-    width: 0px;
-    margin: 0;
-}
-
 #my_canvas {
     background: #000000;
     border: #000  solid;
